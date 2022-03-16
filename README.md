@@ -3,7 +3,7 @@
 <img align="center" alt="Ignite" src="./assets/ignite.png" />
 
 <h3 align="center">
-  Desafio 06: Database Queries
+  Desafio 01: Database Queries
 </h3>
 
 
