@@ -1,4 +1,4 @@
-# Desafio 6 do Ignite Trilha NodeJS
+# Desafio 1 do Ignite Trilha NodeJS - Chapter III
 
 <img align="center" alt="Ignite" src="./assets/ignite.png" />
 
